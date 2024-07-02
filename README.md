@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=Hello&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=200&section=header&text=Hello&fontSize=90)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuyeonShinnnn)](https://github.com/anuraghazra/github-readme-stats)
