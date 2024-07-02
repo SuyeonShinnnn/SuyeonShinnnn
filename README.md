@@ -1,9 +1,11 @@
+<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=250&section=header&text=Hello%0AI'm&fontSize=80)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuyeonShinnnn)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **SuyeonShinnnn/SuyeonShinnnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+  
+</div>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
