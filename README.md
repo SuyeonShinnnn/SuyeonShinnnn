@@ -1,6 +1,5 @@
-[[![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=250&section=header&text=Hello&fontSize=80&text2=I'm%20suyeonShin&fontSize2=60
-)]](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=250&section=header&text=Welcome&fontSize=80&text2=I'm%20suyeonShin&fontSize2=60
-)
+https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=250&section=header&text=Welcome%0AI'm%20suyeonShin&fontSize=80
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuyeonShinnnn)](https://github.com/anuraghazra/github-readme-stats)
 <!--
