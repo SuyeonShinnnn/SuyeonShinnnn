@@ -1,5 +1,5 @@
 ## 🐣
-<img src="https://img.shields.io/badge/C++-003399?style=flat-square&logo=c++&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-#00599C?style=flat&logo=C++&logoColor=white"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuyeonShinnnn)](https://github.com/anuraghazra/github-readme-stats)
 <!--
