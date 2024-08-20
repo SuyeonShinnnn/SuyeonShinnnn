@@ -5,6 +5,9 @@
 </div>
 <br/>
 
+🐥
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSuyeonShinnnn&count_bg=%239542B3&title_bg=%23E2C1FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+
 ### Skills🛠️
 ---
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
