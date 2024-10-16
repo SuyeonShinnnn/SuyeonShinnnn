@@ -6,7 +6,12 @@
 <br/>
 
 🐥
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSuyeonShinnnn&count_bg=%239542B3&title_bg=%23E2C1FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSuyeonShinnnn&count_bg=%239542B3&title_bg=%23E2C1FF&icon=&icon_color=%2300465B&title=hits&edge_flat=false)
+###
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=suyeon5693)](https://solved.ac/suyeon5693/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuyeonShinnnn&layout=compact&theme=swift&color=00465B)
+
+</br>
 
 ### Skills🛠️
 ---
@@ -27,10 +32,8 @@
 ###
 ###
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuyeonShinnnn)](https://github.com/anuraghazra/github-readme-stats)
 
-###
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=suyeon5693)](https://solved.ac/suyeon5693)<br/>
+<br/>
 <!--
 **SuyeonShinnnn/SuyeonShinnnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
